@@ -15,7 +15,7 @@
 *.swp
 /output/
 *.webm
-tmp
+tmp1
 /issues/
 *.iso
 path-to.vmx
