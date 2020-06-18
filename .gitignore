@@ -15,7 +15,8 @@
 *.swp
 /output/
 *.webm
-tmp1
+tmp
 /issues/
 *.iso
 path-to.vmx
+.vagrant
